@@ -5,7 +5,11 @@ import FooterComponent from './components/FooterComponent';
 import BannerComponent from './components/sections/BannerComponent';
 import AboutUsComponent from './components/sections/AboutUsComponent';
 import ServicesComponent from './components/sections/ServicesComponent';
-import TeamComponent from './components/sections/TeamComponent';
+import LatestStoriesComponent from './components/sections/LatestStoriesComponent';
+import SocialImpactComponent from './components/sections/SocialImpactComponent';
+import TestimonialComponent from './components/sections/TestimonialComponent';
+// import BlogComponent from './components/sections/BlogComponent';
+import ContactUsComponent from './components/sections/ContactUsComponent';
 
 function App() {
   return (
@@ -15,7 +19,12 @@ function App() {
         <BannerComponent/>
         <AboutUsComponent/>
         <ServicesComponent/>
-        <TeamComponent/>
+        <LatestStoriesComponent/>
+        <SocialImpactComponent/>
+        <TestimonialComponent/>
+        {/* <BlogComponent/> */}
+        <ContactUsComponent/>
+        
 
       </div>
 

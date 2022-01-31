@@ -324,7 +324,7 @@ header .navbar {
 }
 #features .feature-block h4 {
   font-size: 20px;
-  color: #333;
+  color: rgb(7, 7, 7);
   position: relative;
   text-transform: none;
   margin-bottom: 10px;
@@ -342,7 +342,7 @@ header .navbar {
   margin-top: 40px;
 }
 #counter {
-  background: url(../img/counter-bg.jpg) no-repeat;
+  background: url(../img/philantropy2.jpeg) no-repeat;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -356,7 +356,7 @@ header .navbar {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.72);
+  background: rgba(59, 58, 58, 0.72);
 }
 #counter .title {
   position: relative;

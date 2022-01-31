@@ -23,6 +23,7 @@ export default function BannerComponent () {
 				<h3 className='how-works'>see how fundWallet works.</h3>
 	        </div>
 		</section>
+		
     )
 }
 

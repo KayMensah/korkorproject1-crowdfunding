@@ -23,8 +23,9 @@ export default function HeaderComponent(){
                         <li className="active"><a href="#top">Home</a></li>
                         <li className=""><a href="#features">About Us</a></li>
                         <li className=""><a href="#portfolio">Services</a></li>
-                        <li className=""><a href="#team">Team</a></li>
+                        <li className=""><a href="#team">Latest Stories</a></li>
                         <li className=""><a href="#pricing-table">Social Impact</a></li>
+                        <li className=""><a href="#blog">Testimonials</a></li>
                         <li className=""><a href="#blog">Blog</a></li>
                         <li className=""><a href="#testimonial">Login/Register</a></li>
                         <li className=""><a href="#contact-form">Contact</a></li>
